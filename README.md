@@ -7,11 +7,11 @@ It's like the Castle.ActiveRecord but without the NHibernate layer to couse trou
 
 ## Features
 
-*SQL-less, xml-less table to class mapping
-*Joined classes
-*Relations 1-1 and 1-n
-*Cascade effect for save/delete
-*MySQL and SQL server suport
+* SQL-less, xml-less table to class mapping
+* Joined classes
+* Relations 1-1 and 1-n
+* Cascade effect for save/delete
+* MySQL and SQL server suport
 
 ## Code Example
 
