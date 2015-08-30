@@ -117,9 +117,9 @@ public class Image : Artifact
 }
 ```
 
-## Contributors
+## Contact
 
-Me @pedrolsj
+https://twitter.com/pedrolsj
 
 ## Licence
 
